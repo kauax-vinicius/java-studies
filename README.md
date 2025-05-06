@@ -1,38 +1,20 @@
----  
-# 📗 Java Studies  
 
-**`Notes, tutorials, and reference materials for Java concepts and frameworks`**  
+---
 
-This repository holds my study notes, code snippets, and mini-tutorials for Java. Topics range from core language features to advanced frameworks, organized to support structured learning and quick reference.  
+### **`java-studies/README.md`**
 
-<p align="left">  
-  <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" style="margin-right:10px;"/>  
-</p>  
+```markdown
+# 📗 Java Studies
 
----  
+**Purpose:**  
+This repository holds my personal Java study notes, mini‑tutorials and code snippets for quick reference.
 
+## How to Use
+- Browse the Markdown files in each folder.
+- Copy snippets or read explanations as you study.
+- Feel free to adapt any example for your own projects.
 
-
-## 📖 How to Use  
-
-- Browse markdown files in each folder for explanations and code examples.  
-- Run any code snippets in an IDE or from the command line:  
-  ```bash  
-  cd 05-jvm-internals  
-  javac *.java && java Main  
-  ```  
-- Copy-paste snippets into your own projects for quick starts.  
-
----  
-
-## 🤝 Contributing  
-
-Improvements and suggestions are welcome! Feel free to submit:  
-- Additional notes or diagrams.  
-- Corrections or clarifications.  
-- New topics or frameworks.  
-
----  
+Happy learning! 📚
 
 ## 📜 License  
 
