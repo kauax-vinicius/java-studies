@@ -1,9 +1,3 @@
-
----
-
-### **`java-studies/README.md`**
-
-```markdown
 # 📗 Java Studies
 
 **Purpose:**  
@@ -16,9 +10,5 @@ This repository holds my personal Java study notes, mini‑tutorials and code sn
 
 Happy learning! 📚
 
-## 📜 License  
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
-
----
-
+## 📜 License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
